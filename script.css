@@ -1,0 +1,15 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  position:relative;
+  color: white;
+  text-allign:center;
+  padding: 20px
+}
+p {
+  font-family: cursive;
+  color: white;
+  position:relative;
+  text-align: center;
+}
